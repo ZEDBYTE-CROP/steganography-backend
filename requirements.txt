@@ -1,0 +1,14 @@
+starlette
+pydantic
+motor
+uvicorn
+pymongo[srv]==3.12
+boto3
+python-multipart
+pyyaml
+twilio
+qrcode
+opencv-python
+docopt
+numpy
+opencv-python-headless

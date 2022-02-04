@@ -1,0 +1,6 @@
+mongo_db_testing:
+  uri: "mongodb+srv://vijayvijay1997:sunder.vj@cluster0.s3gkt.mongodb.net/test?authSource=admin&replicaSet=atlas-78d6x4-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+  database : stegano
+  user_collection : "users"
+  encryption_collection : "encryption"
+  
